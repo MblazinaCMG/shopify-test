@@ -3,6 +3,7 @@
     "main": {
       "type": "my-section",
       "settings": {
+        "my-setting-1": "Hello section"
       }
     }
   },
