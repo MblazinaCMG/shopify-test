@@ -1,4 +1,5 @@
 {
+  "layout": "my-layout",
   "sections": {
     "main": {
       "type": "my-section",
